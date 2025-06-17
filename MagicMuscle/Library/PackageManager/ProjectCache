@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Packages/manifest.json
+    m_FilePath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638856572920000000
+      ticks: 638856560050000000
     m_Hash: 172339254
   m_LockFileStatus:
-    m_FilePath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Packages/packages-lock.json
+    m_FilePath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638856572920000000
+      ticks: 638856560050000000
     m_Hash: 4168058625
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Packages
+m_ProjectPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Packages
 m_EditorVersion: 6000.0.46f1 (fb93bc360d3a)
 m_ResolvedPackages:
 - packageId: com.unity.ai.navigation@2.0.6
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.6
   source: 1
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.ai.navigation@c74b2724ed42
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.ai.navigation@c74b2724ed42
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -105,7 +105,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638744428199200000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ai.navigation@2.0/manual/index.html
@@ -148,7 +148,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.8.2
   source: 1
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.collab-proxy@c854d1f7d97f
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.collab-proxy@c854d1f7d97f
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -313,7 +313,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.35
   source: 1
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.ide.rider@7d01a2258732
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.ide.rider@7d01a2258732
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -397,7 +397,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638779086412770000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
@@ -435,7 +435,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.23
   source: 1
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.ide.visualstudio@198cdf337d13
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.ide.visualstudio@198cdf337d13
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -503,7 +503,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638786696173840000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.visualstudio@2.0/manual/index.html
@@ -541,7 +541,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.14.0
   source: 1
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.inputsystem@7fe8299111a7
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.inputsystem@7fe8299111a7
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -648,7 +648,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638780752796560000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.14/manual/index.html
@@ -690,7 +690,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -780,7 +780,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 17.0.4
   source: 2
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.render-pipelines.universal@18be219df6cb
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.render-pipelines.universal@18be219df6cb
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal RP
@@ -871,12 +871,12 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.collections
     version: 2.5.1
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
   - name: com.unity.test-framework
     version: 1.5.1
   - name: com.unity.ext.nunit
     version: 2.0.5
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
   - name: com.unity.test-framework.performance
     version: 3.0.3
   - name: com.unity.modules.physics
@@ -942,7 +942,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.5.1
   source: 2
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.test-framework@388540dd9ce6
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.test-framework@388540dd9ce6
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1080,7 +1080,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.7
   source: 1
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.timeline@c58b4ee65782
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.timeline@c58b4ee65782
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1089,7 +1089,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: assets
   description: Use Unity Timeline to create cinematic content, game-play sequences,
     audio sequences, and complex particle effects.
   errors: []
@@ -1189,18 +1189,18 @@ m_ResolvedPackages:
     recommended: 1.8.8
     deprecated: []
   dependencies:
+  - name: com.unity.modules.audio
+    version: 1.0.0
   - name: com.unity.modules.director
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
-  - name: com.unity.modules.audio
-    version: 1.0.0
   - name: com.unity.modules.particlesystem
     version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.modules.director
-    version: 1.0.0
   - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.director
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
@@ -1222,7 +1222,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638524833900000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.timeline@1.8/manual/index.html
@@ -1266,7 +1266,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.ugui@f3fac7af1578
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.ugui@f3fac7af1578
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1361,7 +1361,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.6
   source: 1
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.visualscripting@7dcdc439b230
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.visualscripting@7dcdc439b230
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1443,7 +1443,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638769546699650000
   documentationUrl: 
@@ -3914,7 +3914,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 2
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.ext.nunit@031a54704bff
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.ext.nunit@031a54704bff
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -3993,7 +3993,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.4
   source: 2
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.render-pipelines.core@54056c5186e5
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.render-pipelines.core@54056c5186e5
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Core RP Library
@@ -4148,12 +4148,12 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.collections
     version: 2.5.1
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
   - name: com.unity.test-framework
     version: 1.5.1
   - name: com.unity.ext.nunit
     version: 2.0.5
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
   - name: com.unity.test-framework.performance
     version: 3.0.3
   - name: com.unity.modules.physics
@@ -4207,7 +4207,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.4
   source: 2
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.shadergraph@4e35da2bf8a6
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.shadergraph@4e35da2bf8a6
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -4349,12 +4349,12 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.collections
     version: 2.5.1
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
   - name: com.unity.test-framework
     version: 1.5.1
   - name: com.unity.ext.nunit
     version: 2.0.5
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
   - name: com.unity.test-framework.performance
     version: 3.0.3
   - name: com.unity.modules.physics
@@ -4410,7 +4410,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.render-pipelines.universal-config@a14cb52003ef
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.render-pipelines.universal-config@a14cb52003ef
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal RP Config
@@ -4449,12 +4449,12 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.collections
     version: 2.5.1
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
   - name: com.unity.test-framework
     version: 1.5.1
   - name: com.unity.ext.nunit
     version: 2.0.5
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
   - name: com.unity.test-framework.performance
     version: 3.0.3
   - name: com.unity.modules.physics
@@ -4508,7 +4508,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.3
   source: 1
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.searcher@1e17ce91558d
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.searcher@1e17ce91558d
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -4595,7 +4595,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.19
   source: 1
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.burst@7a907cf5a459
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.burst@7a907cf5a459
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -4747,12 +4747,14 @@ m_ResolvedPackages:
     - 1.8.20
     - 1.8.21
     - 1.8.22
+    - 1.8.23
     compatible:
     - 1.8.19
     - 1.8.20
     - 1.8.21
     - 1.8.22
-    recommended: 1.8.22
+    - 1.8.23
+    recommended: 1.8.23
     deprecated: []
   dependencies:
   - name: com.unity.mathematics
@@ -4775,7 +4777,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638731397665570000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html
@@ -4825,7 +4827,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.2
   source: 1
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.mathematics@8017b507cc74
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.mathematics@8017b507cc74
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -4834,7 +4836,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: assets
   description: Unity's C# SIMD math library providing vector types and math functions
     with a shader like syntax.
   errors: []
@@ -4877,7 +4879,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638409134840000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.mathematics@1.3/manual/index.html
@@ -4914,7 +4916,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.5.1
   source: 1
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.collections@56bff8827a7e
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.collections@56bff8827a7e
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -5017,10 +5019,10 @@ m_ResolvedPackages:
   dependencies:
   - name: com.unity.burst
     version: 1.8.17
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
   - name: com.unity.test-framework
     version: 1.4.5
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
   - name: com.unity.test-framework.performance
     version: 3.0.3
   resolvedDependencies:
@@ -5030,14 +5032,14 @@ m_ResolvedPackages:
     version: 1.3.2
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
   - name: com.unity.test-framework
     version: 1.5.1
   - name: com.unity.ext.nunit
     version: 2.0.5
   - name: com.unity.modules.imgui
     version: 1.0.0
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
   - name: com.unity.test-framework.performance
     version: 3.0.3
   keywords:
@@ -5054,7 +5056,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638621282722800000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.collections@2.5/manual/index.html
@@ -5091,7 +5093,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.1
   source: 2
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.rendering.light-transport@307bc27a498f
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.rendering.light-transport@307bc27a498f
   assetPath: Packages/com.unity.rendering.light-transport
   name: com.unity.rendering.light-transport
   displayName: Unity Light Transport Library
@@ -5127,14 +5129,14 @@ m_ResolvedPackages:
     version: 1.3.2
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
   - name: com.unity.test-framework
     version: 1.5.1
   - name: com.unity.ext.nunit
     version: 2.0.5
   - name: com.unity.modules.imgui
     version: 1.0.0
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
   - name: com.unity.test-framework.performance
     version: 3.0.3
   - name: com.unity.modules.terrain
@@ -5187,7 +5189,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.11.4
   source: 1
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.nuget.mono-cecil@d6f9955a5d5f
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.nuget.mono-cecil@d6f9955a5d5f
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -5235,7 +5237,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637852971930000000
   documentationUrl: 
@@ -5269,7 +5271,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.0.3
   source: 1
-  resolvedPath: /Users/x25060xx/unity/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.test-framework.performance@fb0dc592af8b
+  resolvedPath: /Users/x23029xx/Documents/GitHub/Magick_muscle/MagicMuscle/Library/PackageCache/com.unity.test-framework.performance@fb0dc592af8b
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API
@@ -5278,7 +5280,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: assets
   description: Package that extends Unity Test Framework package. Adds performance
     testing capabilities and collects configuration metadata.
   errors: []
@@ -5368,7 +5370,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638301960470000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.test-framework.performance@3.0/manual/index.html
