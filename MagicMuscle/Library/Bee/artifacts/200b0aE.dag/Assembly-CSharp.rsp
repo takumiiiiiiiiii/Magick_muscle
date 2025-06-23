@@ -420,9 +420,13 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.46f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.46f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.46f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
-"Assets/New Folder/puroro_gu.cs"
-"Assets/NewMonoBehaviourScript.cs"
-"Assets/test.cs"
+"Assets/BallMoveScreen.cs"
+"Assets/EmptySponner.cs"
+"Assets/Enemy.cs"
+"Assets/EnemySpone.cs"
+"Assets/Karaage.cs"
+"Assets/ScreenToWorldShot.cs"
+"Assets/Simplemove.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 /deterministic
