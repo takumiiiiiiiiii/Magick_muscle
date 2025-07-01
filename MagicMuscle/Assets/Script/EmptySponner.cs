@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class EmptySponner : MonoBehaviour
 {
-    public GameObject gameObject;
+    //public GameObject gameObject;
 
     public int timemax;
     private int time;
